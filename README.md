@@ -3,6 +3,7 @@ Hey thre this is my machine Learning Repository and here I have implemented ML (
 
 - [Libraries Used](#libraries-used)
 - [Project 1](#project-1)
+- [Project 2](#project-2)
 
 ## Libraries Used
 [Pandas Website](https://pandas.pydata.org/)
@@ -15,3 +16,12 @@ Hey thre this is my machine Learning Repository and here I have implemented ML (
 
 ## Project 1
 In this first project I have done Data Preprocessing, Spltting the data into Train Test Split, Feature Scaling using Standard Scaler, Getting the Mean Squared Error usign Linear regression and finally plotting the accuracy precision and Recall
+
+## Project 2 
+In my project 2 I have used some ML library called Sklearn, In the code I have performed some functions using:
+1. K Nearest Neighbours
+2. Support Vector Machines
+3. Naive Bayes
+4. Decision Tree Classifier
+5. Random Forest Classifier
+ All the code including its visualiation have been performed in this LAB
