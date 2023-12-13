@@ -24,4 +24,5 @@ In my project 2 I have used some ML library called Sklearn, In the code I have p
 3. Naive Bayes
 4. Decision Tree Classifier
 5. Random Forest Classifier
- All the code including its visualiation have been performed in this LAB
+ 
+All the code including its visualiation have been performed in this LAB
