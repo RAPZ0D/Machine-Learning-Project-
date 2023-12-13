@@ -4,6 +4,7 @@ Hey thre this is my machine Learning Repository and here I have implemented ML (
 - [Libraries Used](#libraries-used)
 - [Project 1](#project-1)
 - [Project 2](#project-2)
+- [Project 3](#project-3)
 
 ## Libraries Used
 [Pandas Website](https://pandas.pydata.org/)
@@ -26,3 +27,8 @@ In my project 2 I have used some ML library called Sklearn, In the code I have p
 5. Random Forest Classifier
  
 All the code including its visualiation have been performed in this Project
+
+## Project 3
+In this project I have mainly focused on Visualizations, I have used Sklearn Library, In this lab I have made the use of: 
+1. K means Clustering Visualization
+2. Hierarchical Clustering Visualization
