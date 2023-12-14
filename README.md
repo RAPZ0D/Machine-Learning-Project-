@@ -5,6 +5,7 @@ Hey thre this is my machine Learning Repository and here I have implemented ML (
 - [Project 1](#project-1)
 - [Project 2](#project-2)
 - [Project 3](#project-3)
+- [Project 4](#project-4)
 
 ## Libraries Used
 [Pandas Website](https://pandas.pydata.org/)
@@ -32,3 +33,12 @@ All the code including its visualiation have been performed in this Project
 In this project I have mainly focused on Visualizations, I have used Sklearn Library, In this lab I have made the use of: 
 1. K means Clustering Visualization
 2. Hierarchical Clustering Visualization
+
+## Project 4 
+This Project Focuses on NLP (Natural Language Processing), I have used the NLTK library and performed some functions: 
+1. Text Tokenization
+2. Stopword Removal
+3. Stemming
+4. Lemmatization
+5. Sentiment Analysis
+
