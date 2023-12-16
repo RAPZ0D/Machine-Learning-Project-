@@ -47,3 +47,5 @@ This Project Focuses on NLP (Natural Language Processing), I have used the NLTK 
 ## Project 5
 Project 5 focuses on Neural Network, Neural networks, also known as artificial neural networks (ANNs) or simulated neural networks (SNNs), are a subset of machine learning and are at the heart of deep learning algorithms. Their name and structure are inspired by the human brain, mimicking the way that biological neurons signal to one another. 
 I have used Tensorflow Library and the csv dataset wihich I have included in the folder, to create a simple ANN.
+
+## Project 6
