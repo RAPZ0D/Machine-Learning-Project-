@@ -7,6 +7,7 @@ Hey thre this is my machine Learning Repository and here I have implemented ML (
 - [Project 3](#project-3)
 - [Project 4](#project-4)
 - [Project 5](#project-5)
+- [Project 6](#project-6)
 
 ## Libraries Used
 [Pandas Website](https://pandas.pydata.org/)
