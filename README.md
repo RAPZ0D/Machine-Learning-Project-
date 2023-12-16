@@ -49,3 +49,7 @@ Project 5 focuses on Neural Network, Neural networks, also known as artificial n
 I have used Tensorflow Library and the csv dataset wihich I have included in the folder, to create a simple ANN.
 
 ## Project 6
+My 6th Project folder includes 
+1. Principal Component Analysis (PCA)
+2. Linear Discriminant Analysis (LDA)
+3. Kernel PCA 
