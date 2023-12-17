@@ -8,6 +8,7 @@ Hey thre this is my machine Learning Repository and here I have implemented ML (
 - [Project 4](#project-4)
 - [Project 5](#project-5)
 - [Project 6](#project-6)
+- [Project 7](#project-7)
 
 ## Libraries Used
 [Pandas Website](https://pandas.pydata.org/)
@@ -53,3 +54,8 @@ My 6th Project folder includes
 1. Principal Component Analysis (PCA)
 2. Linear Discriminant Analysis (LDA)
 3. Kernel PCA 
+
+## Project 7
+Project 7 consists of model boosting libraries used from sklearn, In this Project I have used the following: 
+1. GridSearch CV
+2. K Fold Cross Validation
