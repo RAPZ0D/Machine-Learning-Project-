@@ -57,5 +57,4 @@ My 6th Project folder includes
 
 ## Project 7
 Project 7 consists of model boosting libraries used from sklearn, In this Project I have used the following: 
-1. GridSearch CV
-2. K Fold Cross Validation
+
