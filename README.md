@@ -9,6 +9,7 @@ Hey thre this is my machine Learning Repository and here I have implemented ML (
 - [Project 5](#project-5)
 - [Project 6](#project-6)
 - [Project 7](#project-7)
+- [Project 8](#project-8)
 
 ## Libraries Used
 [Pandas Website](https://pandas.pydata.org/)
@@ -59,3 +60,6 @@ My 6th Project folder includes
 Project 7 consists of model boosting libraries used from sklearn, In this Project I have used the following: 
 1. GridSearch CV
 2. K Fold Cross Validation
+
+## Project 8
+
