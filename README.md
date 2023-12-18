@@ -62,4 +62,4 @@ Project 7 consists of model boosting libraries used from sklearn, In this Projec
 2. K Fold Cross Validation
 
 ## Project 8
-
+I have made use of the XGBoost library to perform ML predictions
